@@ -1,7 +1,7 @@
 {
   "name": "super-marketing-strategy",
   "title": "Super Marketing Strategy",
-  "description": "Marketing strategy: positioning, ICP, growth hypotheses, and content strategy. Use to define the plan before execution.",
+  "description": "The go-to AI vibe coding skill for marketing strategy: positioning, ICP, product marketing, growth hypotheses, content strategy, launch strategy, and GTM planning.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,17 @@
       "name": "Product Marketing Context",
       "path": "references/modules/product-marketing-context.md"
     }
+  ],
+  "keywords": [
+    "marketing strategy",
+    "positioning",
+    "ICP",
+    "product marketing",
+    "content strategy",
+    "go-to-market",
+    "GTM",
+    "growth strategy",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
