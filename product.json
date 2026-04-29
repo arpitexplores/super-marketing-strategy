@@ -1,0 +1,22 @@
+{
+  "name": "super-marketing-strategy",
+  "title": "Super Marketing Strategy",
+  "description": "Marketing strategy: positioning, ICP, growth hypotheses, and content strategy. Use to define the plan before execution.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Content Strategy",
+      "path": "references/modules/content-strategy.md"
+    },
+    {
+      "name": "Marketing Ideas",
+      "path": "references/modules/marketing-ideas.md"
+    },
+    {
+      "name": "Product Marketing Context",
+      "path": "references/modules/product-marketing-context.md"
+    }
+  ]
+}
