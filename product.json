@@ -2,7 +2,7 @@
   "name": "super-marketing-strategy",
   "title": "Super Marketing Strategy",
   "description": "The go-to AI vibe coding skill for marketing strategy: positioning, ICP, product marketing, growth hypotheses, content strategy, launch strategy, and GTM planning.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
